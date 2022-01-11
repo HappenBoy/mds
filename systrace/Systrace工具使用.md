@@ -53,10 +53,6 @@ Systrace是基于ftrace实现的，而ftrace 是 Linux 内核中的调试跟踪�
 
   
 
-
-
-##### 3.2 Profiler
-
 ##### 3.3 Systrace
 
 #### 4. Systrace的使用
